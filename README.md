@@ -13,5 +13,10 @@ Currently, I am reading the Tiger Book to learn Compiler. Here are all the progr
   - c) program: exercise_1_1_c.sml
   - d) `TODO`: need to implement a Balanced Biany Search Tree for Symbol Table
 
+### Chapter-2
+- page-31, Programming Assignment about Lexcial Analysis
+  - Use ML-Lex to implement a lexicakl analyzer for the Tiger languare
+  - program: in sub-directory ch-2/lexer/
+
  
 
