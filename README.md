@@ -17,6 +17,7 @@ Currently, I am reading the Tiger Book to learn Compiler. Here are all the progr
 - page-31, Programming Assignment about Lexcial Analysis
   - Use ML-Lex to implement a lexicakl analyzer for the Tiger languare
   - program: in sub-directory ch-2/lexer/
+- `TODO`: exercise in this chapter
 
  
 
