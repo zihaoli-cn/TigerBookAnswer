@@ -3,7 +3,15 @@ Currently, I am reading the Tiger Book to learn Compiler. Here are all the progr
 
 ## Contents
 ### Chapter-1
-- page-11, two problems about interpreting Straight Line Program, program: straight_line.sml
+- page-11, 2 problems about interpreting Straight Line Program
+  - Symbol Table is implemented by a list
+  - program: straight_line.sml
+  
+- page-12, exercise 1.1: interpreting Straight Line Program, Symbol Table is implemented by a Binary Tree
+  - a) program: exercise_1_1_a.sml
+  - b) program: exercise_1_1_b.sml
+  - c) program: exercise_1_1_c.sml
+  - d) `TODO`: need to implement a Balanced Biany Search Tree for Symbol Table
 
  
 
